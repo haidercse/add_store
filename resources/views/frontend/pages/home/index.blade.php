@@ -1,6 +1,6 @@
  @extends('frontend.layouts.master')
  @section('frontend_title')
-     Sobkichubazar add store
+    Sobkichubazar Add Store
  @endsection
  @section('frontend_content')
      <!-- Sidebar -->

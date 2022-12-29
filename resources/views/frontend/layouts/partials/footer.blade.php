@@ -10,8 +10,8 @@
                         <li class="mb-4">
                             <a href="https://develop.sobkisubazar.com" class="d-block mt-2">
                                 <img class="custom_logo ls-is-cached lazyloaded"
-                                    src="frontend/https://develop.sobkisubazar.com/public/assets/img/logo.svg"
-                                    data-src="frontend/https://develop.sobkisubazar.com/public/assets/img/logo.svg"
+                                    src="https://develop.sobkisubazar.com/public/assets/img/logo.svg"
+                                    data-src="https://develop.sobkisubazar.com/public/assets/img/logo.svg"
                                     alt="" style="height: 90px; width: 210px;" height="90">
                             </a>
                         </li>
@@ -66,7 +66,7 @@
         <div class="row">
             <div class="col-lg-10 mx-auto">
                 <img class="img-fit mx-auto h-140px h-md-60px h-md-55px ls-is-cached lazyloaded"
-                    src="frontend/https://develop.sobkisubazar.com/public/assets/img/Footer-Logo.png" data-src="frontend/"
+                    src="https://develop.sobkisubazar.com/public/assets/img/Footer-Logo.png" data-src="frontend/"
                     alt=""
                     onerror="this.onerror=null;this.src='https://develop.sobkisubazar.com/public/assets/img/.png';">
             </div>

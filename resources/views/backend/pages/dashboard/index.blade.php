@@ -8,10 +8,6 @@
 <!-- main content area start -->
 <div class="main-content">
 
-
-
-
-
     <div class="main-content-inner">
         <!-- sales report area start -->
         <div class="sales-report-area mt-5 mb-5">
